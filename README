@@ -17,7 +17,7 @@ rake db:migrate
 
 CONFIGURE 
 ------------------------------------------------------
-vi /vendor/plugins/minimal_cart/config/config.yml
+vi vendor/plugins/minimalcart/config/config.yml
 
 
 REFERENCE IN APP
